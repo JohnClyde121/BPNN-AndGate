@@ -51,7 +51,7 @@ namespace Solution_BPNN
         0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
             };
 
-            int epochs = 500; // start with 500 epochs, you can adjust
+            int epochs = 500;
 
             for (int a = 0; a < epochs; a++)
             {
